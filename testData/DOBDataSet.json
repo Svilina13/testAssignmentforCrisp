@@ -1,0 +1,11 @@
+{
+    "payload": [
+    {
+        "Id": "111",
+        "Name": "Jenn D.",
+        "DateOfBirth": "01-06-1934",
+        "Address": "CA"
+    }
+],
+    "url": "https://apimgmt-dev-crisp.azure-api.net/patients/query/"
+}
